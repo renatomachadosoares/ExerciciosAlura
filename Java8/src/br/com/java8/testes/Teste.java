@@ -20,6 +20,6 @@ public class Teste {
 				
 		nomes.sort(Comparator.comparing(t -> t.length()));
 						
-		nomes.forEach(System.out::println);		
+		nomes.forEach(System.out::println);
 	}	
 }
