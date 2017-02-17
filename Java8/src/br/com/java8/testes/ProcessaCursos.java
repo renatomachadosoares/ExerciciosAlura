@@ -35,7 +35,7 @@ public class ProcessaCursos {
 		
 		// Pegando o primeiro elemento da Stream:
 		
-		System.out.println("Primeiro elemento da stream:");
+		System.out.println("Primeiro elemento da stream: ");
 		
 		cursos.stream()
 			.filter(c -> c.getAlunos() >= 50)
