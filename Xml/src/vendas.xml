@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<venda moeda="dolar">
+	<formaDePagamento>boleto</formaDePagamento>
+	
+	<produtos>
+		
+		<produto>
+			<nome>Amazon Kindle</nome>
+			<preco>300.00</preco>					
+		</produto>
+		
+		<produto>
+			<nome>Tablet Samsung</nome>
+			<preco>500.00</preco>					
+		</produto>	
+	
+		<produto>
+			<nome>Smartphone Motorola</nome>
+			<preco>900.00</preco>
+		</produto>
+			
+	</produtos>
+	
+</venda>
